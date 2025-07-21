@@ -1,4 +1,4 @@
-<img src="banner.webp"
+<img src="banner.webp">
 
 <!--
 **terepapakamaal/terepapakamaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
