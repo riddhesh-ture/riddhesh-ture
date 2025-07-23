@@ -1,6 +1,6 @@
 <img src="banner.webp">
 
-<img src="https://github-profile-trophy.vercel.app/?username=terepapakamaal&theme=dark" alt="trophy"></a>
+<img src="https://github-profile-trophy.vercel.app/?username=terepapakamaal&theme=dark" alt="trophy">
 <!--
 **terepapakamaal/terepapakamaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
