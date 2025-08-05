@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riddhesh-ture&theme=onedark" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=riddhesh-ture&theme=juicyfresh alt="GitHub Profile Trophy">
 </p>
