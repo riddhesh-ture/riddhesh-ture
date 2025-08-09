@@ -3,5 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riddhesh-ture&theme=juicyfresh alt="GitHub Profile Trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=riddhesh-ture&theme=juicyfresh">
+    <img src="https://github-profile-trophy.vercel.app/?username=riddhesh-ture&theme=juicyfresh" alt="GitHub Profile Trophy" />
+  </a>
 </p>
